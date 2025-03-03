@@ -1,0 +1,78 @@
+aircraft type,number of fatal crashes since 2005,approximately number of flights since 2005
+Boeing 737 Classic,3,5000000
+Boeing 737 NG,15,40000000
+Boeing 737 MAX,2,5000000
+Boeing 757,2,7000000
+Boeing 727,5,3000000
+Airbus A320,12,40000000
+Boeing 747,6,5000000
+Airbus A330,4,8000000
+Boeing 777,3,6000000
+Airbus A380,0,1000000
+Boeing 767,4,7000000
+Airbus A340,1,3000000
+Boeing 787 Dreamliner,0,4000000
+Airbus A350,1,2000000
+Airbus A310,3,2000000
+Airbus A220,0,3000000
+Tupolev Tu-154,10,4000000
+Embraer E175,3,5000000
+ATR 72,10,6000000
+Bombardier CRJ900,5,4000000
+Cessna 172,150,10000000
+Piper PA-28,120,8000000
+Beechcraft Bonanza,80,5000000
+McDonnell Douglas MD-80,7,3000000
+Embraer ERJ 145,6,4000000
+ATR 42,7,3000000
+Bombardier Dash 8 Q400,6,5000000
+Fokker 50,5,2000000
+Fokker 70,1,1000000
+Fokker 100,4,3000000
+Learjet 35,6,1500000
+Learjet 45,3,1000000
+Learjet 55,2,800000
+Gulfstream G-IV/G-V,5,2000000
+DHC-6 Twin Otter,12,3000000
+Bombardier Challenger 600,4,1500000
+Antonov An-26,15,2500000
+McDonnell Douglas DC-9,4,2000000
+McDonnell Douglas DC-10,3,4000000
+McDonnell Douglas MD-11,2,3000000
+McDonnell Douglas MD-90,1,1000000
+Embraer ERJ 135,3,1500000
+Embraer ERJ 140,2,1000000
+Embraer E190,4,6000000
+Embraer E195,2,4000000
+Bombardier CRJ700,4,5000000
+Bombardier CRJ1000,1,2000000
+Bombardier CRJ200,6,8000000
+Cessna 182,100,7000000
+Cessna 150,80,6000000
+Cessna 206,60,4000000
+Cessna Caravan,25,3000000
+Piper PA-32,50,5000000
+Piper PA-44,20,2000000
+Beechcraft Baron,40,3000000
+Beechcraft 1900,8,4000000
+Gulfstream G650,2,1000000
+Challenger 300,3,1200000
+Hawker 800,4,1500000
+Cessna Citation II,10,2000000
+Cessna Citation X,2,800000
+Saab 340,5,3000000
+Dornier 328,3,2000000
+Antonov An-24,12,3000000
+Ilyushin Il-76,8,2000000
+Tupolev Tu-134,6,2500000
+BAe 146,2,3000000
+Dash 8 Q300,4,4000000
+ATR 72-600,3,2000000
+Embraer EMB 120,5,2500000
+Shorts 360,2,1500000
+CASA C-212,10,2000000
+Pilatus PC-12,15,2500000
+Mooney M20,30,3000000
+Cirrus SR22,25,2000000
+Diamond DA40,20,1500000
+Socata TB-20,15,1000000
