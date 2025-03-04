@@ -10,12 +10,13 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:planestats/main.dart';
 import 'package:planestats/pages/beforeflight.dart';
+import 'package:planestats/pages/statistics.dart';
 
 void main() {
   test('Test if the calculations for airline is right', () {
     Calculation calc = Calculation();
     calc.setAircraftData();
-    Map airline = calc.getAircraftData('Airbus A330');
+    Map airline = calc.getAircraftData('airbus a320');
     print(airline);
   });
 }
